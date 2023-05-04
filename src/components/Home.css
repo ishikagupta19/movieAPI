@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+*, *:before, *:after {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+  }
+  
+  body {
+    background: rgb(140, 140, 140);
+    background: linear-gradient(90deg, rgb(90, 154, 164) 41%, rgb(9, 119, 121) 92%);
+    font-size: 15px;
+    
+  }
